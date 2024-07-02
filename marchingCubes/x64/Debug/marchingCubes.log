@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\amaka\source\repos\marchingCubes\marchingCubes\mesh.h(34,54): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\amaka\source\repos\marchingCubes\marchingCubes\main.cpp(57,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\amaka\source\repos\marchingCubes\marchingCubes\main.cpp(57,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\amaka\source\repos\marchingCubes\marchingCubes\main.cpp(476,42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\amaka\source\repos\marchingCubes\marchingCubes\main.cpp(477,42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\amaka\source\repos\marchingCubes\marchingCubes\main.cpp(478,42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\amaka\source\repos\marchingCubes\marchingCubes\main.cpp(514,75): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\amaka\source\repos\marchingCubes\marchingCubes\main.cpp(551,66): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\amaka\source\repos\marchingCubes\marchingCubes\main.cpp(551,52): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\amaka\source\repos\marchingCubes\marchingCubes\main.cpp(565,78): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\amaka\source\repos\marchingCubes\marchingCubes\main.cpp(565,64): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\amaka\source\repos\marchingCubes\marchingCubes\main.cpp(587,66): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\amaka\source\repos\marchingCubes\marchingCubes\main.cpp(587,52): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+  marchingCubes.vcxproj -> C:\Users\amaka\source\repos\marchingCubes\x64\Debug\marchingCubes.exe
